@@ -25,7 +25,7 @@ This project is a professional phishing awareness training presentation develope
 # Tools Used
 - Microsoft PowerPoint
 - Canva
-- AI Tools
+
   
 # Project File
 CodeAlpha_Phishing_Awareness_Training_July2026.pptx
